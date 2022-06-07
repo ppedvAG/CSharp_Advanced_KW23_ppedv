@@ -51,6 +51,9 @@ Console.WriteLine(abc);
 Person person1 = new Person();
 person1.Age = 21;
 person1.Vorname = "Otto";
+person1.ZweiterVorname = "Der Ostfriese";
+person1.Nachname = "Walkes";
+
 
 Console.WriteLine($"Person - Alter: {person1.Age} und Name: {person1.Vorname}");
 ManipulatePersonClass(person1); //Ich übergebe keine Kopie -> sondern meine eindeutige Speicheradresse
@@ -96,9 +99,33 @@ void AlternWithIn(in int age)
 void ManipulatePersonClass(Person p)
 {
     p.Age++;
-    p.Vorname = " Walkes";
+    p.Vorname = "Ottifant";
 }
+#endregion
+#region Tuple
+//Zur Laufzeit wird der Datentyp gesetzt 
+var returnVariable = person1.VollenNamenAusgabe();
 
+//allgemeinste Schreibvariante 
+Console.WriteLine($"{returnVariable.firstname} {returnVariable.secondname} {returnVariable.Item3}");
+#endregion
+
+int[] zahlen = { 5, 7, 432, 567, -98, 3, 2 };
+
+ref int position = ref Zahlensuche(3, zahlen);
+position = 100_000_000;
+Console.WriteLine(zahlen[5]);
+
+ref int Zahlensuche(int gesuchteZahl, int[]zahlen)
+{
+    for(int i = 0; i < zahlen.Length; i++)
+    {
+        if (zahlen[i] == gesuchteZahl)
+            return ref zahlen[i];
+    }
+
+    throw new IndexOutOfRangeException();
+}
 //Referencetyp Person
 public class Person
 {
@@ -106,10 +133,17 @@ public class Person
     public int Age { get; set; }
 
     public string Vorname { get; set; }
-    public struing 
+    public string ZweiterVorname { get; set; }
+    public string Nachname { get; set; }
+
+    public (string firstname, string secondname, string) VollenNamenAusgabe()
+    {
+        return (Vorname, !string.IsNullOrEmpty(ZweiterVorname) ? ZweiterVorname : string.Empty, Nachname);
+    }
+        
 }
 
-#endregion
+
 
 
 

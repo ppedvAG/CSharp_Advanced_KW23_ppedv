@@ -5,18 +5,17 @@ Email: KevinW@ppedv.de
 Themen
 
 Dienstag 
-- [ ] C# 7.0 -> C# 9 Sprach Features
+- [x] C# 7.0 -> C# 9 Sprach Features
 - [ ] C# 10 und Ausblick auf C#11
 
-- [x] Benchmark StringBuilder vs +-Operator (bei strings)
+- [ ] Benchmark StringBuilder vs +-Operator (bei strings)
 
 
 Mittwoch
+- [x] Generics
 - [ ] Delegates
 
-
 Donnerstag
-- [ ] Generics
 - [ ] Threads
 
 Freitag: 

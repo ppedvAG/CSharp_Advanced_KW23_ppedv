@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\WriteGenericClasses\bin\Debug\net6.0\WriteGenericClasses.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\WriteGenericClasses\bin\Debug\net6.0\WriteGenericClasses.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\WriteGenericClasses\bin\Debug\net6.0\WriteGenericClasses.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\WriteGenericClasses\bin\Debug\net6.0\WriteGenericClasses.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\WriteGenericClasses\bin\Debug\net6.0\WriteGenericClasses.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\WriteGenericClasses\obj\Debug\net6.0\WriteGenericClasses.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\WriteGenericClasses\obj\Debug\net6.0\WriteGenericClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\WriteGenericClasses\obj\Debug\net6.0\WriteGenericClasses.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\WriteGenericClasses\obj\Debug\net6.0\WriteGenericClasses.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\WriteGenericClasses\obj\Debug\net6.0\WriteGenericClasses.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\WriteGenericClasses\obj\Debug\net6.0\WriteGenericClasses.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\WriteGenericClasses\obj\Debug\net6.0\refint\WriteGenericClasses.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\WriteGenericClasses\obj\Debug\net6.0\WriteGenericClasses.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\WriteGenericClasses\obj\Debug\net6.0\WriteGenericClasses.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\WriteGenericClasses\obj\Debug\net6.0\ref\WriteGenericClasses.dll

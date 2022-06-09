@@ -1,0 +1,17 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\EventHandlersInWinForms\bin\Debug\net6.0-windows\EventHandlersInWinForms.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\EventHandlersInWinForms\bin\Debug\net6.0-windows\EventHandlersInWinForms.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\EventHandlersInWinForms\bin\Debug\net6.0-windows\EventHandlersInWinForms.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\EventHandlersInWinForms\bin\Debug\net6.0-windows\EventHandlersInWinForms.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\EventHandlersInWinForms\bin\Debug\net6.0-windows\EventHandlersInWinForms.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\EventHandlersInWinForms\obj\Debug\net6.0-windows\EventHandlersInWinForms.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\EventHandlersInWinForms\obj\Debug\net6.0-windows\EventHandlersInWinForms.Form1.resources
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\EventHandlersInWinForms\obj\Debug\net6.0-windows\EventHandlersInWinForms.csproj.GenerateResource.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\EventHandlersInWinForms\obj\Debug\net6.0-windows\EventHandlersInWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\EventHandlersInWinForms\obj\Debug\net6.0-windows\EventHandlersInWinForms.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\EventHandlersInWinForms\obj\Debug\net6.0-windows\EventHandlersInWinForms.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\EventHandlersInWinForms\obj\Debug\net6.0-windows\EventHandlersInWinForms.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\EventHandlersInWinForms\obj\Debug\net6.0-windows\EventHandlersInWinForms.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\EventHandlersInWinForms\obj\Debug\net6.0-windows\refint\EventHandlersInWinForms.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\EventHandlersInWinForms\obj\Debug\net6.0-windows\EventHandlersInWinForms.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\EventHandlersInWinForms\obj\Debug\net6.0-windows\EventHandlersInWinForms.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\EventHandlersInWinForms\obj\Debug\net6.0-windows\ref\EventHandlersInWinForms.dll

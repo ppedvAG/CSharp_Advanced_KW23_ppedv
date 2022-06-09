@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JtFA0FaCZPEKp7eKQpKwaVKa/twkMIJtuBugtgodXhvZmutSsNikzIoUhHKIPOUQOenH5VRXty4qeN1yhkcCew==",
+  "dgSpecHash": "qLILMrhWciCxsbsHRQgSUDOtvaY/pHVa3RGQESLCdatmFWw3PBZAweZwiY1l0JyGpNYPtNCTUk/x7vGk+zCqsQ==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW23_ppedv\\CSharp_Advanced\\GenericObjectsInNET\\GenericObjectsInNET.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.4\\microsoft.netcore.app.host.win-x64.6.0.4.nupkg.sha512",
-    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.4\\microsoft.aspnetcore.app.ref.6.0.4.nupkg.sha512",
-    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.4\\microsoft.windowsdesktop.app.ref.6.0.4.nupkg.sha512",
-    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.4\\microsoft.netcore.app.ref.6.0.4.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

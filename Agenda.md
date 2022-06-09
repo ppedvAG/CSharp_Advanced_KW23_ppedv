@@ -6,14 +6,14 @@ Themen
 
 Dienstag 
 - [x] C# 7.0 -> C# 9 Sprach Features
-- [ ] C# 10 und Ausblick auf C#11
+- [x] C# 10 und Ausblick auf C#11
 
 - [ ] Benchmark StringBuilder vs +-Operator (bei strings)
 
 
 Mittwoch
 - [x] Generics
-- [ ] Delegates
+- [x] Delegates, Action, Func, Callbacks, Event, EventHandler
 
 Donnerstag
 - [ ] Threads
@@ -26,7 +26,7 @@ Freitag:
 Montag: 
 - [ ] Serialization
 - [ ] Erweiterungsklassen
-- [ ] Linq
+- [ ] Linq / Lambda Expression
 
 
 Dienstag : 

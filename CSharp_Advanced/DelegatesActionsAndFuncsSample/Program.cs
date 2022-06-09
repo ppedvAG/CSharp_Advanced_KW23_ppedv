@@ -21,8 +21,30 @@ logDelegate("Starte Programm"); //LogToDb wird aufgerufen + LogToEvetLog
 //Action kann nur mit Methoden zusammenarbeiten, die ein void zurückgeben 
 
 Action<string> logAction = new Action<string>(LogToDb);
+logAction += LogToEvetLog;
+logAction("Action kann multiple void Methoden ansprechen");
 
 
+Func<string> getHello = new Func<string>(GetHello);
+string output = getHello(); //output ist 'Get Hello Word'
+
+Func<int,int> func1 = new Func<int,int>(OffSet5);
+
+
+Func<int, int, int, DateTime> getDateTimeFunc = new Func<int, int, int, DateTime>(GetDateTimeObject);
+DateTime intializedDateTime = getDateTimeFunc(2012, 5, 5);
+
+
+string GetHello()
+{
+    return "Get Hello World";
+}
+
+
+DateTime GetDateTimeObject(int year, int month, int day)
+{
+    return new DateTime(year, month, day);
+}
 
 int OffSet5(int zahl)
 {

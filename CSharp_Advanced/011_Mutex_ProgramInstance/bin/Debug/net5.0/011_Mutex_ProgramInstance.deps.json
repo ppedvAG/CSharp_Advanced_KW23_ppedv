@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "011_Mutex_ProgramInstance/1.0.0": {
+        "runtime": {
+          "011_Mutex_ProgramInstance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "011_Mutex_ProgramInstance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

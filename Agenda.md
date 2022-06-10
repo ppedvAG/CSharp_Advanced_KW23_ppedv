@@ -20,6 +20,7 @@ Donnerstag
 
 Freitag: 
 - [ ] TPL
+- [ ] TPL -> t1.ContinueWith(task => AllgemeinerFolgetask()); -> Was kann man mit Task- task noch anstellen oder Alternative
 - [ ] async / await
 
 

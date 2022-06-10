@@ -33,19 +33,39 @@ namespace _004_BeendenEinesThreadMitCancelationTokenSource
                 //10 Sekunden mit Ausgabe 'zzZZZZzzzZZZ'
                 if (param is CancellationToken cancellationToken)
                 {
+
+                    ParameterizedThreadStart parameterizedThreadStart = new ParameterizedThreadStart(MachEtwasInEinemThread);
+                    Thread innerThread = new Thread(parameterizedThreadStart);
+                    innerThread.Start(cancellationToken);
+
                     for (int i = 0; i < 50; i++)
                     {
-
-
-                        if (cancellationToken.IsCancellationRequested)
-                        {
-                            cancellationToken.ThrowIfCancellationRequested(); //kalkulierte Exception
-                        }
-                        
-
+                       
                         Console.WriteLine("zzzzzZZZZZzzzzzZZZZZ");
                         Thread.Sleep(200);
                     }
+                }
+            }
+            catch (OperationCanceledException ex)
+            {
+                Console.WriteLine("Thread wird beendet: " + ex.Message);
+            }
+        }
+
+        private static void MachEtwasInEinemThread(object param)
+        {
+            try
+            {
+                CancellationToken cancellationToken = (CancellationToken)param;
+
+                for (int i = 0; i < 5000; i++)
+                {
+                    if (cancellationToken.IsCancellationRequested)
+                    {
+                        cancellationToken.ThrowIfCancellationRequested(); //kalkulierte Exception
+                    }
+
+                    Console.WriteLine("#");
                 }
             }
             catch (OperationCanceledException ex)

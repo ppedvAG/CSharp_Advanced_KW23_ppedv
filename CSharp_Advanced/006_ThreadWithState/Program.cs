@@ -52,8 +52,8 @@ namespace _006_ThreadWithState
 
             //Pseudoverarbeitung ->
             MyReturnObject myReturnObject = new MyReturnObject();
-            myReturnObject.Zahl = 1234567;
-            myReturnObject.Text = "Machen jetzt eine Pause";
+            myReturnObject.Zahl = myNumberValue * 2;
+            myReturnObject.Text = myStringText.ToUpper();
 
             //Achtung hier verwenden wir ein Delegate-Callback
 

@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\008_LockSample\bin\Debug\net5.0\008_LockSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\008_LockSample\bin\Debug\net5.0\008_LockSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\008_LockSample\bin\Debug\net5.0\008_LockSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\008_LockSample\bin\Debug\net5.0\008_LockSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\008_LockSample\bin\Debug\net5.0\008_LockSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\008_LockSample\bin\Debug\net5.0\008_LockSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\008_LockSample\obj\Debug\net5.0\008_LockSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\008_LockSample\obj\Debug\net5.0\008_LockSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\008_LockSample\obj\Debug\net5.0\008_LockSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\008_LockSample\obj\Debug\net5.0\008_LockSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\008_LockSample\obj\Debug\net5.0\008_LockSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\008_LockSample\obj\Debug\net5.0\008_LockSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\008_LockSample\obj\Debug\net5.0\refint\008_LockSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\008_LockSample\obj\Debug\net5.0\008_LockSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\008_LockSample\obj\Debug\net5.0\008_LockSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\008_LockSample\obj\Debug\net5.0\ref\008_LockSample.dll

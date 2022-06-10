@@ -14,7 +14,7 @@ namespace _005_ThreadMitParamsAndReturnValues
             meinText = "Heute ist Donnerstag";
 
             //Alte Variante
-            Thread thread1 = new Thread(AusgelagerteMethode);
+            Thread thread1 = new Thread(Startmethode);
             thread1.Start();
             thread1.Join(); //Warten bis Thread fertig ist
             Console.WriteLine(retString);
@@ -34,11 +34,12 @@ namespace _005_ThreadMitParamsAndReturnValues
             Console.WriteLine(retString);
         }
 
+        //Methode mit der komplexen Logik
         private static string StringToUpper(string param)
            => param.ToUpper();
 
         //VARIANTE 2 -> ohne Anonyme Methode
-        public static void AusgelagerteMethode()
+        public static void Startmethode()
         {
             retString = StringToUpper(meinText);
         }

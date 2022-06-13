@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\010_Task_WhenAll\bin\Debug\net5.0\010_Task_WhenAll.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\010_Task_WhenAll\bin\Debug\net5.0\010_Task_WhenAll.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\010_Task_WhenAll\bin\Debug\net5.0\010_Task_WhenAll.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\010_Task_WhenAll\bin\Debug\net5.0\010_Task_WhenAll.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\010_Task_WhenAll\bin\Debug\net5.0\010_Task_WhenAll.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\010_Task_WhenAll\bin\Debug\net5.0\010_Task_WhenAll.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\010_Task_WhenAll\obj\Debug\net5.0\010_Task_WhenAll.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\010_Task_WhenAll\obj\Debug\net5.0\010_Task_WhenAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\010_Task_WhenAll\obj\Debug\net5.0\010_Task_WhenAll.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\010_Task_WhenAll\obj\Debug\net5.0\010_Task_WhenAll.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\010_Task_WhenAll\obj\Debug\net5.0\010_Task_WhenAll.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\010_Task_WhenAll\obj\Debug\net5.0\010_Task_WhenAll.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\010_Task_WhenAll\obj\Debug\net5.0\refint\010_Task_WhenAll.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\010_Task_WhenAll\obj\Debug\net5.0\010_Task_WhenAll.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\010_Task_WhenAll\obj\Debug\net5.0\010_Task_WhenAll.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\010_Task_WhenAll\obj\Debug\net5.0\ref\010_Task_WhenAll.dll

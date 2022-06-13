@@ -1,0 +1,17 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\Serialisierung\bin\Debug\net6.0\Serialisierung.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\Serialisierung\bin\Debug\net6.0\Serialisierung.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\Serialisierung\bin\Debug\net6.0\Serialisierung.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\Serialisierung\bin\Debug\net6.0\Serialisierung.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\Serialisierung\bin\Debug\net6.0\Serialisierung.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\Serialisierung\obj\Debug\net6.0\Serialisierung.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\Serialisierung\obj\Debug\net6.0\Serialisierung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\Serialisierung\obj\Debug\net6.0\Serialisierung.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\Serialisierung\obj\Debug\net6.0\Serialisierung.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\Serialisierung\obj\Debug\net6.0\Serialisierung.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\Serialisierung\obj\Debug\net6.0\Serialisierung.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\Serialisierung\obj\Debug\net6.0\refint\Serialisierung.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\Serialisierung\obj\Debug\net6.0\Serialisierung.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\Serialisierung\obj\Debug\net6.0\Serialisierung.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\Serialisierung\obj\Debug\net6.0\ref\Serialisierung.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\Serialisierung\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\Serialisierung\obj\Debug\net6.0\Serialisierung.csproj.CopyComplete

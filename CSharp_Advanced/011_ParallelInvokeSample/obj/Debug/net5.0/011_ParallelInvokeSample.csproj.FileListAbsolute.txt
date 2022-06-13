@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\011_ParallelInvokeSample\bin\Debug\net5.0\011_ParallelInvokeSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\011_ParallelInvokeSample\bin\Debug\net5.0\011_ParallelInvokeSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\011_ParallelInvokeSample\bin\Debug\net5.0\011_ParallelInvokeSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\011_ParallelInvokeSample\bin\Debug\net5.0\011_ParallelInvokeSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\011_ParallelInvokeSample\bin\Debug\net5.0\011_ParallelInvokeSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\011_ParallelInvokeSample\bin\Debug\net5.0\011_ParallelInvokeSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\011_ParallelInvokeSample\obj\Debug\net5.0\011_ParallelInvokeSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\011_ParallelInvokeSample\obj\Debug\net5.0\011_ParallelInvokeSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\011_ParallelInvokeSample\obj\Debug\net5.0\011_ParallelInvokeSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\011_ParallelInvokeSample\obj\Debug\net5.0\011_ParallelInvokeSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\011_ParallelInvokeSample\obj\Debug\net5.0\011_ParallelInvokeSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\011_ParallelInvokeSample\obj\Debug\net5.0\011_ParallelInvokeSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\011_ParallelInvokeSample\obj\Debug\net5.0\refint\011_ParallelInvokeSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\011_ParallelInvokeSample\obj\Debug\net5.0\011_ParallelInvokeSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\011_ParallelInvokeSample\obj\Debug\net5.0\011_ParallelInvokeSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\011_ParallelInvokeSample\obj\Debug\net5.0\ref\011_ParallelInvokeSample.dll

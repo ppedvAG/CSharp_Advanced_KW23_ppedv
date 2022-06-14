@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2HH14+1wp52RnxZbLCoCCPrGXvJOgj50kDtXO7/V2IK/12pnaLRkGbrinpl/O2OKU54qYKWDe+seLoCfhIVLnQ==",
+  "dgSpecHash": "x+67G0DFE9OVcmw8TGL1SROR4ccmUmwUvo7W+8q5cYTpT9ycZ3N6Ow1CG9lpIdKg/RwN7jmxL8WhCP/t0/HA6g==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW23_ppedv\\CSharp_Advanced\\004_BeendenEinesThreadMitCancelationTokenSource\\004_BeendenEinesThreadMitCancelationTokenSource.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

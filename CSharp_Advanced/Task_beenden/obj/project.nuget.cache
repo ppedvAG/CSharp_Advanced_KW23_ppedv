@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kGzUKIo1ol+dRxlkPEguMq140w8xxc7Hg4pGVvCjulg9LwaPs+ERQpRZKvhRO3Z8Oj1dWJaz1WopL7M8piEBjQ==",
+  "dgSpecHash": "3o9sHUzVEFva7YwpGACFGK4QOHkcabKzTiqAMv5e0MkrI89E1bddNlfb3C1wX5ye1bytklop612Y2o2AWZbksQ==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW23_ppedv\\CSharp_Advanced\\Task_beenden\\002_Task_beenden.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

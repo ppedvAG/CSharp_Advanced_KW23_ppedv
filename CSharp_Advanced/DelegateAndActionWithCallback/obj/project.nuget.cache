@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qjyevLkXFPGcogG8v+hvlJk56ZWzpTqsou+i8HbK4e30HbrJ6SgVugx7vz2T3qt41JdroadxLdxiaqX+8nZw8g==",
+  "dgSpecHash": "XLnm0aJTJq0t9Y752UyW0EqzNmtmOfOH7BXzHandf+MAhDeWaWP4e4rjq/KbMZfIfxilttd5W1n2xqPYPtk99w==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW23_ppedv\\CSharp_Advanced\\DelegateAndActionWithCallback\\DelegateAndActionWithCallback.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.4\\microsoft.netcore.app.host.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.4\\microsoft.aspnetcore.app.ref.6.0.4.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.4\\microsoft.windowsdesktop.app.ref.6.0.4.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.4\\microsoft.netcore.app.ref.6.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

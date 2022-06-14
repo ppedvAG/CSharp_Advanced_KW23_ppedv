@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BFQx4XH5tnWRsD5TRIvIT5d2u2Cs6r2w5F2wYxNL5QXbEiP2XvyaWSERxqm3K9hQo0iKfJ26GeyXCTiwJfxXRQ==",
+  "dgSpecHash": "IUAFM5KJEEDIFX5wTwabypg5Pm5NmOU5Z4Hqp33CKxQgibFvv7LNZq+NuWLM9h0FFT1tC74aQQBPRuEaRkKFjw==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW23_ppedv\\CSharp_Advanced\\001_Threads\\001_Threads.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

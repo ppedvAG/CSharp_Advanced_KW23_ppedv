@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vidCrM/MyN1VBStjGI72tH0CCegExlXmK2hYHu3g/A8iFXyYRoKkfPzhpkDKgh+VEeLTCPQTGJt5MpV03dIUlg==",
+  "dgSpecHash": "RK60eHFEXUqTNQaAYBJU0EE6ASt/CZ2kviEad8npCDPMYwOCcLZCNsQ+l9+Xg8d01pjCuUVHplh23rqrhurfsg==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW23_ppedv\\CSharp_Advanced\\StringBuilderBenchmarkDemo\\StringBuilderBenchmarkDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xfjFYTQ3J8gavlsOEBnUMDraXAoXFde2AXyLEV3E9jaqyjdr4IPSjClOuNR1++YUyF/MoFUN4XTwj1kh9Kz0mg==",
+  "dgSpecHash": "wph400fUq8z7w8JkRhrlETwAjmW+ET4ugqLdncqflz9+p1QpRCpe6C26sODhv4WDFtYKXFA7v4EuIPiig4PugQ==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW23_ppedv\\CSharp_Advanced\\010_Task_WhenAll\\010_Task_WhenAll.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

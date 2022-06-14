@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Doe0Bdv/od30fJ4h3z8KqTMxf9DSyDe67jKaKA3huxmA4KZi6dASz+hQHnJ9uymy9ySJaTP/AjK06guPZNNkvw==",
+  "dgSpecHash": "x9Gi1SX1RUoSQZqJTwSDDSdBMM/YJ1d375VIuZYP9TXv1HPZr2qKnzYl1+Ymr05luvzYmFwX0QVgk8QRibYlBQ==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW23_ppedv\\CSharp_Advanced\\EventHandlersInWinForms\\EventHandlersInWinForms.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.4\\microsoft.netcore.app.host.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.4\\microsoft.aspnetcore.app.ref.6.0.4.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.4\\microsoft.windowsdesktop.app.ref.6.0.4.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.4\\microsoft.netcore.app.ref.6.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

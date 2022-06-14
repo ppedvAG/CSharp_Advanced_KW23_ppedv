@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Kn0rnCuN5rmi/qCM6k+yJGUYHwE2PyE5qmEonjy9683hPJyogQxeFCRInRchzr+XpgXdvOIDifnAxXSCy/TaHg==",
+  "dgSpecHash": "j30bNncXAz2sU4NZ1KbG2mK+AMYOdcuJx2wxEsxojTISHaPSsfFyDBdJAEFr2CvDSpxtit7lQbsG9wVqPVrtzQ==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW23_ppedv\\CSharp_Advanced\\004_TaskMitParameter\\004_TaskMitParameter.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

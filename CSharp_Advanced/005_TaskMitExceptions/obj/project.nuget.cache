@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tD7+Wvy77ddCY6Kpq+chJ1wxqyeg+yDiHsf9iHjgYtP9S4U/2Kr/FiFQn2GGmxs+GRpA+KWYe40N63GfO8eWOg==",
+  "dgSpecHash": "y/bVAZx3fSQ+4O/IUGBHVw/av+Kd8TvlFf3f1/QPlRx81XgG3KQbCp/FqpsZpEH/TZF9Av/Krl0oq4SSH+n8AA==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW23_ppedv\\CSharp_Advanced\\005_TaskMitExceptions\\005_TaskMitExceptions.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

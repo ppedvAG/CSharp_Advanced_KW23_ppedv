@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kUNK7WQq+f79cAl7hpmP6rSD5p81NFTE2BOMe/PaDypzyNsLjihyC7euun16/Quk1aXKnSkyQ98AG7JQJNmGiw==",
+  "dgSpecHash": "TAyAupJ3NNDkpkquNwSK0e26pK0bnm1mG7+fVWmlxzcRaqHmli4sm8hk63AkeArmsCM69padKqj0ZRF5AiH5Cw==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW23_ppedv\\CSharp_Advanced\\SolarSystem\\SolarSystem.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.4\\microsoft.netcore.app.host.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.4\\microsoft.aspnetcore.app.ref.6.0.4.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.4\\microsoft.windowsdesktop.app.ref.6.0.4.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.4\\microsoft.netcore.app.ref.6.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

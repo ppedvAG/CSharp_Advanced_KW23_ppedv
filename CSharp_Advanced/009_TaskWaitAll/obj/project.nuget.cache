@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VW/qVdyHdt7jYF6eVTQSe8NFPOHzOzU4ggsu5PglDHAiLpETssqFkuaG7LX4WqZqr/eGp5NkhxgYh8IxCAWEuw==",
+  "dgSpecHash": "ihFll1pOdWVfndxZ4d12+XGxRSM3FGhNst4yoz0FYKQ6YiWgwpPSFS4PI3rbNQLcq1cq8C3Ua1GNRsmwJSJKBw==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW23_ppedv\\CSharp_Advanced\\009_TaskWaitAll\\009_TaskWaitAll.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

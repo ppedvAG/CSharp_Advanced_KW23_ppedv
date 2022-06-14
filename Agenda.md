@@ -27,7 +27,7 @@ Freitag:
 Montag: 
 - [x] Serialization
 - [x] Erweiterungsklassen
-- [ ] Linq / Lambda Expression
+- [x] Linq / Lambda Expression
 
 
 Dienstag : 
@@ -39,7 +39,7 @@ Weitere Themen (wenn Zeit vorhanden)
 - [ ] Operatoren
 - [ ] Anonyme Typen + dynamische Typen
 - [ ] SOLID
-- [ ] 
+
 
 
 
